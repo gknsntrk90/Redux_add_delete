@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "15f5c33e-c469-497c-8149-b0f249f86b59",
+      "text": "eactasdasdasd",
+      "is_done": false,
+      "created_at": "11.08.2024"
+    },
+    {
+      "id": "398b76e1-44ef-4cc8-97c4-cee287485278",
+      "text": "raradasd",
+      "is_done": false,
+      "created_at": "11.08.2024"
+    }
+  ]
+}
