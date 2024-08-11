@@ -1,3 +1,6 @@
+## VİDEO KAYI;![Screen Recording 2024-08-11 at 07 13 37 25 PM](https://github.com/user-attachments/assets/2b2bbbf0-8c21-40c5-aa37-d061f45ef811)
+
+
 ## STATE YÖNETİM;
 - State: Uygulamadaki bileşenlerin sahip olduğu bilgi ve özelliklerdir.
 
